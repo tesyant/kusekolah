@@ -11,14 +11,14 @@ if ($data) {
 	if ($data->level==0) {
 		echo "<script> 
 			alert('Anda Berhasil login sebagai User');
-			window.location.assign('admpusatpage1.php');
+			window.location.assign('admpusatpage.php');
 			</script>";
 	}
 	elseif ($data->level==1) {
 		# code...
 		echo "<script> 
 			alert('Anda Berhasil login sebagai Admin');
-			window.location.assign('admpage1.php');
+			window.location.assign('admpage.php');
 			</script>";
 	}			
 	?> 
@@ -29,6 +29,6 @@ else{
 	<?php
 	echo "<script>
 		alert('Anda belum terdaftar');
-		window.location.assign('login.html');
+		window.location.assign('admpage.html');
 	</script>";
 }?>

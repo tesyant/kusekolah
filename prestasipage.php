@@ -14,7 +14,6 @@
   <link rel="stylesheet" type="text/css" href="iconfonts/flaticon.css">
   <link rel="stylesheet" type="text/css" href="dist/components/icon.css">
   <link rel="stylesheet" type="text/css" href="dist/components/header.css">
-  <link rel="stylesheet" type="text/css" href="dist/components/container.css">
   <link href='/img/twh.ico' rel='shortcut icon'>
   <link rel="icon" href="img/twh.ico" type="image/x-icon">
 
@@ -35,10 +34,10 @@
           <a class="logo item">
             kusekolah
           </a>
-          <a class="item" href="index.php">
-            <i class="flaticon-home" ></i> Beranda
+          <a class="item">
+            <i class="flaticon-home"></i> Beranda
           </a>
-          <a class="item" href="profil.php">
+          <a class="item">
             <i class="flaticon-graduates"></i> Profil
           </a>
           <a class="item">
@@ -70,74 +69,30 @@
 
   <div class="ui vertical feature segment">
     <div class="ui centered page grid">
-      <div class="fourteen wide column">
-      <div class="ui three column aligned stackable divided grid">
-        <div class="column">
-          <div class="ui card" data-html="<div class='header'>User Rating</div><div class='content'><div class='ui star rating'><i class='active icon'></i><i class='active icon'></i><i class='active icon'></i><i class='icon'></i><i class='icon'></i></div></div>">
-            <div class="image">
-              <img src="images/prestasi.jpg">
-            </div>
-            <div class="content">
-              <h3 class="ui header">JUARA CATUR PORGUKAR</h3>
-              <h5 class="ui header">SMPN 7 Yogyakarta</h5>
-              <div class="description">
-                22.10.16 – Pekan Olahraga Guru dan Karyawan (PORGUKAR) diselenggarakan dua hari, Sabtu – Minggu, 22 – 23 Oktober 2016. Cabang olahraga yang dipertandingkan meliputi cabor volley putra dan putri, tenis meja putra dan putri, bulutangkis putra dan putri, kasti putra dan putri, dan catur putra dan putri.
-              </div>
-            </div>
-            <div class="ui two bottom attached buttons">
-              <div class="ui pink button">
-                <i class="flaticon-plus icon"></i>
-                Baca
-              </div>
-            </div>
-          </div>
-        </div>
-          
-        <div class="column">
-          <div class="ui card" data-html="<div class='header'>User Rating</div><div class='content'><div class='ui star rating'><i class='active icon'></i><i class='active icon'></i><i class='active icon'></i><i class='icon'></i><i class='icon'></i></div></div>">
-            <div class="image">
-              <img src="images/prestasi.jpg">
-            </div>
-            <div class="content">
-              <h3 class="ui header">UN Tertinggi se-DIY</h3>
-              <h5 class="ui header">SMPN 4 Pakem</h5>
-              <div class="description">
-               SLEMAN, KRJOGJA.com - Prestasi membanggakan kembali diukir SMPN 4 Pakem Sleman. Pada Ujian Nasional (UN) SMP/MTs tahun ini, sekolah tersebut berhasil memperoleh rerata dengan total nilai 361,88 dan jadi ranking pertama se-DIY.
-              </div>
-            </div>
-            <div class="ui two bottom attached buttons">
-              <div class="ui pink button">
-                <i class="flaticon-plus icon"></i>
-                Baca
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div class="column">
-          <div class="ui card" data-html="<div class='header'>User Rating</div><div class='content'><div class='ui star rating'><i class='active icon'></i><i class='active icon'></i><i class='active icon'></i><i class='icon'></i><i class='icon'></i></div></div>">
-            <div class="image">
-              <img src="images/prestasi.jpg">
-            </div>
-            <div class="content">
-              <h3 class="ui header">Ternama Lewat Prestasi Olahraga</h3>
-              <h5 class="ui header">SMA MUHAMMADIYAH 7 JOGJA </h5>
-              <div class="description">
-               SMA Mutu, itulah sebutan familiar SMA Muhammadiyah 7 Jogja di kalangan insan pelajar Kota Jogja. Nama Mutu sebanding dengan mutu dan kualitas yang dipersembahkan, terutama capaian dalam bidang olahraga.
-              </div>
-            </div>
-            <div class="ui two bottom attached buttons">
-              <div class="ui pink button">
-                <i class="flaticon-plus icon"></i>
-                Baca
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-      </div>
-    </div>
-  </div>
+      <h3><center>Lorem ipsum dolor sit amet</center></h3>
+      <p>Lorem ipsum dolor sit amet,Lorem ipsum dolor sit amet,Lorem ipsum dolor sit amet,Lorem ipsum dolor sit amet<br>
+      Lorem ipsum dolor sit amet,Lorem ipsum dolor sit amet,Lorem ipsum dolor sit amet,Lorem ipsum dolor sit amet<br>
+      Lorem ipsum dolor sit amet,Lorem ipsum dolor sit amet,Lorem ipsum dolor sit amet,Lorem ipsum dolor sit amet<br>
+      Lorem ipsum dolor sit amet,Lorem ipsum dolor sit amet,Lorem ipsum dolor sit amet,Lorem ipsum dolor sit amet<br>
+      Lorem ipsum dolor sit amet,Lorem ipsum dolor sit amet,Lorem ipsum dolor sit amet,Lorem ipsum dolor sit amet<br>
+      Lorem ipsum dolor sit amet,Lorem ipsum dolor sit amet,Lorem ipsum dolor sit amet,Lorem ipsum dolor sit amet<br>
+      Lorem ipsum dolor sit amet,Lorem ipsum dolor sit amet,Lorem ipsum dolor sit amet,Lorem ipsum dolor sit amet<br>
+      Lorem ipsum dolor sit amet,Lorem ipsum dolor sit amet,Lorem ipsum dolor sit amet,Lorem ipsum dolor sit amet<br>
+      Lorem ipsum dolor sit amet,Lorem ipsum dolor sit amet,Lorem ipsum dolor sit amet,Lorem ipsum dolor sit amet<br>
+      Lorem ipsum dolor sit amet,Lorem ipsum dolor sit amet,Lorem ipsum dolor sit amet,Lorem ipsum dolor sit amet<br>
+      Lorem ipsum dolor sit amet,Lorem ipsum dolor sit amet,Lorem ipsum dolor sit amet,Lorem ipsum dolor sit amet<br>
+      Lorem ipsum dolor sit amet,Lorem ipsum dolor sit amet,Lorem ipsum dolor sit amet,Lorem ipsum dolor sit amet<br>
+      Lorem ipsum dolor sit amet,Lorem ipsum dolor sit amet,Lorem ipsum dolor sit amet,Lorem ipsum dolor sit amet<br>
+      Lorem ipsum dolor sit amet,Lorem ipsum dolor sit amet,Lorem ipsum dolor sit amet,Lorem ipsum dolor sit amet<br>
+      Lorem ipsum dolor sit amet,Lorem ipsum dolor sit amet,Lorem ipsum dolor sit amet,Lorem ipsum dolor sit amet<br>
+      Lorem ipsum dolor sit amet,Lorem ipsum dolor sit amet,Lorem ipsum dolor sit amet,Lorem ipsum dolor sit amet<br>
+      Lorem ipsum dolor sit amet,Lorem ipsum dolor sit amet,Lorem ipsum dolor sit amet,Lorem ipsum dolor sit amet<br>
+      Lorem ipsum dolor sit amet,Lorem ipsum dolor sit amet,Lorem ipsum dolor sit amet,Lorem ipsum dolor sit amet<br>
+      Lorem ipsum dolor sit amet,Lorem ipsum dolor sit amet,Lorem ipsum dolor sit amet,Lorem ipsum dolor sit amet<br>
+      Lorem ipsum dolor sit amet,Lorem ipsum dolor sit amet,Lorem ipsum dolor sit amet,Lorem ipsum dolor sit amet<br>
+      Lorem ipsum dolor sit amet,Lorem ipsum dolor sit amet,Lorem ipsum dolor sit amet,Lorem ipsum dolor sit amet<br>
+      Lorem ipsum dolor sit amet,Lorem ipsum dolor sit amet,Lorem ipsum dolor sit amet,Lorem ipsum dolor sit amet<br>
+      </p>
     </div>
   </div>
     
